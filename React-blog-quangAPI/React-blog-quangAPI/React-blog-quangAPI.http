@@ -1,0 +1,6 @@
+@React_blog_quangAPI_HostAddress = http://localhost:5204
+
+GET {{React_blog_quangAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
